@@ -1,0 +1,7 @@
+Q2) We read the paper Bruner et al. in which they characterize the latency reservoir of HIV in cART treated individuals.
+
+They found that only a small fraction (about 2%) actually harbor replication competent proviruses. below is Figure 1 c and d depicting the genome structure of the proviruses they analyzed by sequencing and a pie chart showing the mutations they found.
+
+Please explain for **any four** of the eight color-coded categories in the piechart d below the mechanism(s) of how these mutations occurred, and how they would affect viral replication. (12 points)
+
+![https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5014606/bin/nihms800456f1.jpg]
